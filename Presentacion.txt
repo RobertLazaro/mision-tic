@@ -5,7 +5,7 @@
 # 1. Cesar David Martinez Gamboa                                                                #
 # 2. Diana Carolina Rivera Romero                                                             #
 # 3. Juan Carlos Valderrama G.                                                                #
-# 4. (Indicar nombre completo)                                                                #
+# 4. Roberto Jose Lazaro Sepulveda                                                                #
 #                                                                                             #
 ###############################################################################################
 
@@ -34,7 +34,7 @@ Presentación integrantes:
 
 3. Juan Carlos Valderrama G. - Rol manejado en el sprint - Scrum Master
 
-4. Nombre Integrante 4 - Rol manejado en el sprint -
+4. Roberto Jose Lazaro Sepulveda - Rol manejado en el sprint - Desarrollador
 
 ###############################################################################################
 
